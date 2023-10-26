@@ -1,0 +1,50 @@
+.a{
+background:black;
+width:1350px;
+height: 100px;
+margin-top: 0px;
+margin-left: 0px;
+
+}
+.a button{
+width: 100px;
+height: 100px;
+margin-left: 75px;
+cursor: pointer;
+position: relative;
+background-color: blue;
+box-shadow: 10px 19px 10p white ;
+padding: 0;
+border: 10px white;
+border-radius: 10px;
+border-width: 10px;
+border-style: groove;
+color: darkblue;
+transition: 1s background-color ease-in-out;
+}
+ button:hover{
+  background-color :gold;
+
+}
+button:active{
+
+background-color: antiquewhite;
+
+
+}
+.c{
+position: relative;
+left: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
